@@ -14,3 +14,12 @@ __RULES FOR CONSTRUCTING NAMES__
 4. Reserved words ( javascript keywords ) cannot be used as names.
 __NOTE__
 Numbers are not allowed as the first character in names
+___Declaring Javascript ___
+creating variables in javascript called declaring a variable
+__javascript data type__
+1. premetive and Non premetive
+premetive//
+1. string    5. Symbol     6. BigInt
+2. Numbers     6 undefied
+3. Null
+4. Boolean
